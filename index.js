@@ -6,5 +6,6 @@ var height = 72
 console.log("Name:")
 console.log(name)
 
-console.log("Height:" + " " +<br height)
+console.log("Height: ")
+console.log(height)
 
